@@ -1,3 +1,5 @@
 welcome to devops.....
 
 updated devops file
+
+for gui 
