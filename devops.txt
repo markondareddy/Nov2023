@@ -1,3 +1,8 @@
 welcome to devops.....
 
 updated devops file
+
+configure git configuration files
+working on files
+
+
